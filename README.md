@@ -1,11 +1,11 @@
 <div align="center">
 
 # Arnav Kekre
-### Building high-throughput distributed systems & intelligent applications
+### Building Autonomous AI Agents, Grounded GenAI & High-Throughput Systems
 
 [![GitHub](https://img.shields.io/badge/GITHUB-arnavkekre-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnavkekre)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Arnav_Kekre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/arnav-kekre](https://www.linkedin.com/in/arnav-kekre-53b2763a9/))
-[![Website](https://img.shields.io/badge/LIVE_APP-coachinterview.tech-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.coachinterview.tech)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Arnav_Kekre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-kekre)
+[![Live App](https://img.shields.io/badge/LIVE_APP-coachinterview.tech-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.coachinterview.tech)
 
 </div>
 
@@ -13,13 +13,13 @@
 
 ### About
 
-I'm studying Computer Science & Business Systems at IET DAVV. I engineer low-latency distributed systems and AI applications where systems rigor meets real-world scale.
+I'm studying Computer Science & Business Systems at IET DAVV. I build production Generative AI applications, stateful multi-agent systems, and low-latency distributed infrastructure.
 
 Most of my work focuses on:
-* **Distributed Systems & Storage Engines** — custom append-only commit logs, zero-copy memory-mapped I/O, binary serialization protocols, and high-throughput streaming queues.
-* **Agentic AI & Stateful Workflows** — multi-agent systems, cyclic graph reasoning with LangGraph, and low-latency inference pipelines running on Groq LPUs.
-* **Cloud & Full-Stack Infrastructure** — multi-cloud deployments across AWS (S3, CloudFront) and Azure, with production CORS policies and secure APIs.
-* **Performance & Verification** — profiling microsecond-level latency, benchmark harnesses, and crash-recovery consistency checks.
+* **Autonomous AI Agents & Reasoning Loops** — stateful cyclic graphs (LangGraph), multi-agent supervisor patterns, tool-calling validation, and self-correcting agent workflows.
+* **Grounded GenAI & RAG** — context-aware generation grounded on resumes and documents, semantic retrieval, and structured JSON/Pydantic output extraction.
+* **Voice-First & Multimodal Interfaces** — real-time audio analysis, low-latency streaming TTS/STT pipelines, and webcam vision integration powered by ultra-fast Groq LPUs (~1,000 tokens/sec).
+* **Distributed Systems & Storage Engines** — custom append-only streaming queues in C++20, memory-mapped zero-copy I/O, and microsecond-level benchmarks.
 
 ---
 
@@ -27,33 +27,40 @@ Most of my work focuses on:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,postgres" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,postgres,c" />
   </a>
 </p>
+
+---
 
 ### Skills
 
-**Core & Systems** — High-throughput streaming, memory-mapped I/O, concurrency, binary protocols, CRC32 verification
+**Generative AI & Agents**
+* **Architectures:** Multi-Agent Systems, Cyclic Graphs, Self-Correction, RAG, Semantic Search, Tool-Calling, Function Calling
+* **Frameworks & Models:** LangGraph, LangChain, Groq LPUs (`gpt-oss-20b`, Llama 3.3), OpenAI APIs, Hugging Face
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,linux,git,github" />
+    <img src="https://skillicons.dev/icons?i=pytorch,python,fastapi" />
   </a>
 </p>
 
-**AI & Frameworks** — LangGraph, LangChain, Groq LPU, FastAPI, React, Node.js
+**Full-Stack & Cloud Architecture**
+* **Frontend & Real-Time:** React, Vite, WebSockets, Web Audio API, WebRTC/Webcam API, TailwindCSS
+* **Cloud & Infrastructure:** AWS (CloudFront, S3), Azure, Docker, Linux, Git
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,vite,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,aws,azure,docker,tailwind,git" />
   </a>
 </p>
 
-**Cloud & Tools** — AWS (CloudFront, S3), Azure, Docker, VS Code
+**Low-Level Systems & Storage**
+* **Core:** C++20, Memory-Mapped Files (`MapViewOfFile`), Binary Framing, CRC32 Checksums, Microsecond Benchmarking
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,linux,vscode" />
   </a>
 </p>
 
@@ -61,14 +68,17 @@ Most of my work focuses on:
 
 ### Work
 
-* **[PulseQueue](https://github.com/arnavkekre/PulseQueue)** — High-throughput distributed append-only streaming engine engineered in C++20 (Kafka/Redpanda architecture). Features zero-copy memory-mapped sparse indexing, 29-byte binary protocol framing, and CRC32 cold recovery. Benchmarked at **165,500+ writes/sec** with **6.04 µs average write latency**. `cpp20` `systems` `storage-engine` `benchmarks`
+* **[CoachInterview.tech](https://www.coachinterview.tech)** — Multimodal Generative AI technical interview platform. Features real-time voice synthesis, live camera feedback, and resume-grounded dynamic questioning. Utilizes Groq LPU inference for sub-second conversational latency, deployed across a production multi-cloud setup (AWS CloudFront, S3, Azure).  
+  `genai` `rag` `groq-lpu` `speech-ai` `fastapi` `react` `aws`
 
-* **[CoachInterview.tech](https://www.coachinterview.tech)** — Full-stack AI technical interview simulation platform featuring real-time speech synthesis, webcam evaluation, and custom resume-grounded questions. Served via a multi-cloud architecture using AWS CloudFront, S3, and Azure. `fastapi` `react` `groq` `aws` `azure`
+* **[Autonomous Agentic Workflow Engine](https://github.com/arnavkekre)** — Stateful multi-agent system built with LangGraph. Implements cyclic execution graphs, dynamic tool calling with parameter schemas, conversation checkpointing, and reflection loops for self-healing task execution.  
+  `langgraph` `agents` `reasoning-loops` `tool-use` `python`
 
-* **[Agentic Workflow Engine](https://github.com/arnavkekre)** — Stateful multi-agent reasoning graph implemented with LangGraph and Groq LPUs. Orchestrates cyclic agent execution, tool-calling validation, and structured output parsing. `python` `langgraph` `groq` `agents`
+* **[PulseQueue](https://github.com/arnavkekre/PulseQueue)** — Distributed append-only message streaming engine engineered in C++20 (Kafka/Redpanda architecture). Features zero-copy memory-mapped sparse indexing, 29-byte binary protocol framing, and CRC32 crash recovery. Benchmarked at **165,500+ writes/sec** with **6.04 µs average write latency**.  
+  `cpp20` `systems` `storage-engine` `benchmarks` `zero-copy`
 
 ---
 
 <p align="center">
-  <sub>Open to Systems Engineering, Distributed Systems, and AI Engineering roles.</sub>
+  <sub>Open to AI Engineering, Generative AI, and Distributed Systems Engineering roles.</sub>
 </p>
