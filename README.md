@@ -13,21 +13,22 @@
 
 ### About
 
-I'm studying Computer Science & Business Systems at IET DAVV. I build production Generative AI applications, stateful multi-agent systems, and multimodal interfaces where AI meets real-world interaction.
+I'm studying Computer Science & Business Systems at IET DAVV. I build production Generative AI applications, stateful multi-agent systems, and multimodal web applications where AI meets real-world interaction.
 
 Most of my work focuses on:
 * **Autonomous AI Agents & Reasoning Loops** — stateful cyclic graphs (LangGraph), multi-agent supervisor patterns, tool-calling validation, and self-correcting agent workflows.
 * **Grounded GenAI & RAG** — context-aware generation grounded on resumes and documents, semantic retrieval, and structured JSON/Pydantic output extraction.
 * **Voice-First & Multimodal Interfaces** — real-time audio analysis, low-latency streaming TTS/STT pipelines, and webcam vision integration powered by ultra-fast Groq LPUs (~1,000 tokens/sec).
 * **Computer Vision & Detection** — real-time visual perception and stream analysis using YOLO models for live interactive feedback.
+* **Production Full-Stack & Deployment** — resilient microservices and APIs backed by PostgreSQL and MongoDB, shipped across AWS, Azure, Vercel, and Render.
 
 ---
 
-### Languages
+### Languages & Databases
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,postgres" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,postgres,mongodb" />
   </a>
 </p>
 
@@ -48,22 +49,22 @@ Generative AI, AI Agents, RAG, Semantic Search, Speech AI, Computer Vision
 <br />
 
 **Frameworks**  
-React, FastAPI, Node.js, Express, Vite, TailwindCSS
+React, FastAPI, Django, Node.js, Express, Vite, TailwindCSS
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,express,vite,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,fastapi,django,nodejs,express,vite,tailwind" />
   </a>
 </p>
 
 <br />
 
 **Tools & Platforms**  
-AWS (CloudFront, S3), Azure, Docker, Postman, Git, GitHub, VS Code
+AWS (CloudFront, S3), Azure, Vercel, Render, Docker, Postman, Git, GitHub, VS Code
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,postman,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,vercel,render,docker,postman,git,github,vscode" />
   </a>
 </p>
 
