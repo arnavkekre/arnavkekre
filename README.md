@@ -64,7 +64,7 @@ AWS (CloudFront, S3), Azure, Vercel, Render, Docker, Postman, Git, GitHub, VS Co
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,vercel,render,docker,postman,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,vercel,docker,postman,git,github,vscode" />
   </a>
 </p>
 
