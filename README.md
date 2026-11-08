@@ -4,7 +4,7 @@
 ### Building high-throughput distributed systems & intelligent applications
 
 [![GitHub](https://img.shields.io/badge/GITHUB-arnavkekre-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnavkekre)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Arnav_Kekre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-kekre)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Arnav_Kekre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/arnav-kekre](https://www.linkedin.com/in/arnav-kekre-53b2763a9/))
 [![Website](https://img.shields.io/badge/LIVE_APP-coachinterview.tech-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.coachinterview.tech)
 
 </div>
